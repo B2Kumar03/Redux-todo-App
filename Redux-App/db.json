@@ -1,0 +1,41 @@
+{
+  "todo": [
+    {
+      "id": 2,
+      "title": "learn java in depth ",
+      "status": true,
+      "description": "Purchase vegetables, fruits, and milk from the local grocery store."
+    },
+    {
+      "id": 4,
+      "title": "bk7355583@gmail.com",
+      "status": false,
+      "description": "Take a jog around the park for 30 minutes.",
+      "true": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "status": true,
+      "description": "Start reading 'To Kill a Mockingbird' for English class."
+    },
+    {
+      "id": 6,
+      "title": "Pay Bills",
+      "status": true,
+      "description": "Clear all pending utility bills before the due date."
+    },
+    {
+      "title": "Learn js ",
+      "status": false,
+      "description": "leasn closure in depth and debounching",
+      "id": 10
+    },
+    {
+      "title": "watch youtube",
+      "description": "watch a dsa video on youtube",
+      "status": true,
+      "id": 11
+    }
+  ]
+}
