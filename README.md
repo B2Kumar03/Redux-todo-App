@@ -1,6 +1,6 @@
 # Reux-Todo App
 
-This is a simple Todo application implemented with CRUD operations, authentication, and theme change functionality. JSON Server is used as the backend to provide a RESTful API for managing todos.
+Simple Todo application implemented with CRUD operations, authentication, and theme change functionality. JSON Server is used as the backend to provide a RESTful API for managing todos.
 
 ## Features Implemented:
 
